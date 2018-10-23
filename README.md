@@ -9,7 +9,7 @@ hotel room reservation management program using JDBC and Oracle DB and spring
 - DB: Oracle DB
 - IDE: eclipse
 - OS: windows10
-- language: Korean
+- language: Korean / JAVA
 
 
 ### 사용법
